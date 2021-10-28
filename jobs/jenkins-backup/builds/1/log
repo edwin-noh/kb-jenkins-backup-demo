@@ -1,0 +1,9 @@
+Started by user [8mha:////4CxHtsOZrzcND0XWZJ4OiKhYfe4DyKWuZbIkLj40sMmjAAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZl/dLi1CL95JzS4pLUIt3ElNzMPCiZmpJZoluWmVoOAFzt3NnYAAAA[0mcluster-admin
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/jobs/jenkins-backup/workspace
+[workspace] $ /bin/sh -xe /tmp/jenkins1998345175741694257.sh
++ cd /var/lib/jenkins
++ git init
+Initialized empty Git repository in /var/lib/jenkins/.git/
++ git add .
++ git add --all
