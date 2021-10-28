@@ -1,5 +1,6 @@
 <?xml version='1.1' encoding='UTF-8'?>
 <project>
+  <actions/>
   <description></description>
   <keepDependencies>false</keepDependencies>
   <properties>
@@ -25,7 +26,8 @@ if ! git remote | grep origin &gt; /dev/null; then #if remote origin is NOT set,
   git remote add origin https://github.com/edwin-noh/kb-jenkins-backup-demo.git
 fi
 git commit -m &quot;Automated Jenkins backup - $BACKUP_TIMESTAMP&quot;
-git push https://edwin-noh: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@github.com/bbalakriz/jenkins-backup.git --all</command>
+git push https://edwin-noh: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@github.com/edwin-noh/kb-jenkins-backup-demo.git --all
+</command>
       <configuredLocalRules/>
     </hudson.tasks.Shell>
   </builders>
